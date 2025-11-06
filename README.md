@@ -1,4 +1,5 @@
 # 🍿 `snacks.nvim`
+# 🍿 `snacks.nvim`
 
 A collection of small QoL plugins for Neovim.
 
